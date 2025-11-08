@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Go
+bin/
+build/
+dist/
+*.out
+*.test
+coverage/
+*.exe
+*.dll
+
+# Env & misc
+.env
+.env.*
+*.log
