@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS family_list;
+DROP TABLE IF EXISTS customer;
+DROP TABLE IF EXISTS nationality;
