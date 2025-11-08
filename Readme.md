@@ -14,7 +14,8 @@ Small CRUD service for **customers** and **nationalities** with clean layers:
 
 ```bash
 # 1) clone & enter
-git clone <repo> && cd <repo>
+git clone https://github.com/<you>/usrsvc.git
+cd usrsvc
 
 # 2) copy env and edit
 cp .env.example .env
